@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RasOls89
 - 👀 I’m interested in ...
-- 🌱 I’m currently studying informatics
+- 🌱 I’m currently learning ASP.NET
 - 💞️ I’m looking to collaborate on ...
 - 📫 rasols8911@gmail.com
 
