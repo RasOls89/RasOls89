@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently studying informatics
 - 💞️ I’m looking to collaborate on ...
-- 📫 rasols89@gmail.com
+- 📫 rasols8911@gmail.com
 
 <!---
 RasOls89/RasOls89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
