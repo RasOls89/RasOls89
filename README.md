@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RasOls89
-- 👀 I’m interested in creating systems that adds value
-- 🌱 I’m currently learning systems development
+- 👀 I’m interested in learning how to create systems that adds value to diffrent organisations.
+- 🌱 I’m currently learning systems development and Business Intelligence.
 - 💞️ I’m looking to collaborate on ...
 - 📫 rasols8911@gmail.com
 
